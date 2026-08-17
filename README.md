@@ -85,4 +85,4 @@ OLA-Ride-Booking-Analysis/
 
 **Mithil Khadakban**
 
-Aspiring Data Analyst | SQL | Power BI | Data Analysis
+ SQL | Power BI | Data Analysis
